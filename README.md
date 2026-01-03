@@ -7,8 +7,8 @@
 👋 Hello! I am Sergio Reyes, a dedicated data analyst based in Spain. I leverage my expertise in data analysis and machine learning to solve complex problems and drive data-driven decision-making.
 
 ## Technical Skills
-- **Programming Languages:** Python, PySpark
-- **Tools:** Jupyter Notebook, SQL, NoSQL Excel
+- **Programming Languages:** Python & PySpark
+- **Tools:** Jupyter Notebook, SQL, NoSQL & Excel
 
 ## Highlighted Academic Projects
 
